@@ -1,8 +1,23 @@
-body {
-    background-color: #F5EDDC;
+body{
+    background-color: #FCF8E8;
 } 
 
 *{
     font-size: 15px;
     font-family: 'Verdana';
+    color: #94B49F;
 } 
+
+.centro{
+    display: grid;
+    place-items: center;
+}
+
+table{
+    text-align: center;
+}
+
+ul{
+    list-style-image: url('../Aula03/img/icons.png');
+    
+}
