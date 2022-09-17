@@ -1,11 +1,11 @@
 body{
-    background-color: #FCF8E8;
+    background-color: #CFE8A9;
 } 
 
 *{
     font-size: 15px;
     font-family: 'Verdana';
-    color: #94B49F;
+    color: #F37878;
 } 
 
 .centro{
@@ -19,5 +19,13 @@ table{
 
 ul{
     list-style-image: url('../Aula03/img/icons.png');
-    
+    text-align: center;
+}
+
+h3{
+    font-size: 15px;
+}
+
+h2{
+    font-size: 30px;
 }
