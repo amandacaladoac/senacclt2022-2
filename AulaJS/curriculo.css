@@ -1,0 +1,32 @@
+body{
+    background-color: #CFE8A9;
+} 
+
+*{
+    font-size: 15px;
+    font-family: 'Verdana';
+    color: #F37878;
+} 
+
+.centro{
+    display: grid;
+    place-items: center;
+}
+
+table{
+    text-align: center;
+}
+
+ul{
+    list-style-image: url('../Aula03/img/icons.png');
+    text-align: center;
+}
+
+h3{
+    font-size: 15px;
+}
+
+h2{
+    font-size: 30px;
+}
+
